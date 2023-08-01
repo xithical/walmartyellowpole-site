@@ -1,1 +1,3 @@
-# walmartyellowpole-site
+# Welcome to the official repository for the Walmart yellow pole site
+This site was created as a running gag to show the days since someone last hit the yellow pole at Walmart #1783 and can be viewed at https://walmartyellowpole.com or on Facebook at https://www.facebook.com/walmartyellowpole
+This site was adapted from https://codepen.io/samuelmaggs/pen/QKyqGG with a few tweaks made to adjust it to this use case.
