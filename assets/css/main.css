@@ -17,7 +17,7 @@ header {
 }
 
 header.h1 {
-    padding: 10%;
+    padding: 1%;
     margin: auto;
     font-size: 50px;
 }
@@ -26,13 +26,13 @@ header.h1 {
     max-width: 40%;
     text-align: center;
     margin: auto;
-    padding: 10% 0px 10% 0px;
+    padding: 1% 0px 1% 0px;
 }
 
 #counter {
     max-width: 50%;
     margin: auto;
-    padding: 10% 0 10% 0;
+    padding: 1% 0 1% 0;
     text-align: center;
 }
 
@@ -44,7 +44,7 @@ counter.h2 {
 #days {
     font-family: 'Aldrich', sans-serif;
     font-size: 55px;
-    padding: 10% 0 10% 0;
+    padding: 1% 0 1% 0;
     color: red;
 }
 
@@ -69,7 +69,7 @@ counter.h2 {
   
 .btn-text {
     text-align: center;
-    padding: 20% 0% 0% 0%;
+    padding: 10% 0% 0% 0%;
 }
 
 .btn-text.img {
