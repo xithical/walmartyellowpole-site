@@ -18,17 +18,20 @@ header {
 
 header.h1 {
     padding: 10%;
+    margin: auto;
     font-size: 50px;
 }
 
 #desc {
     max-width: 40%;
     text-align: center;
+    margin: auto;
     padding: 10% 0px 10% 0px;
 }
 
 #counter {
     max-width: 50%;
+    margin: auto;
     padding: 10% 0 10% 0;
     text-align: center;
 }
