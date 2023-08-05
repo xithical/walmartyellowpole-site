@@ -68,10 +68,13 @@ counter.h2 {
 } */
   
 .btn-text {
-    text-align: center;
-    padding: 10% 0% 0% 0%;
+    text-align: center;;
 }
 
 .btn-text.img {
     object-fit: fill
+}
+
+.advert {
+    padding: 10% 0 0 0;
 }
