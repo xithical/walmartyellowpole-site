@@ -72,6 +72,7 @@ counter.h2 {
 }
 
 .btn-text.img {
+    max-width: 80%;
     object-fit: fill
 }
 
