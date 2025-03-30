@@ -3,7 +3,7 @@ var todayYY = todayRaw.getFullYear();
 var todayMM = todayRaw.getMonth();
 var todayDD = todayRaw.getDate();
 var today = new Date(todayYY, todayMM, todayDD);
-var incident = new Date(2025, 01, 07); //YYYY, MM, DD //month counts from 00 i.e may = 04 not 05
+var incident = new Date(2025, 02, 29); //YYYY, MM, DD //month counts from 00 i.e may = 04 not 05
 //var today = today.getTime();        // It seems you do not need this...? //
 //var incident = incident.getTime();  //                                   //
 
